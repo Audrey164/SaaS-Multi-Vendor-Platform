@@ -8,7 +8,7 @@ A scalable multi-vendor SaaS e-commerce platform with vendor management, secure 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Multi-tenant architecture with vendor isolation  
 - Vendor onboarding + KYC  
@@ -21,7 +21,7 @@ A scalable multi-vendor SaaS e-commerce platform with vendor management, secure 
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 - **Frontend:** Vue.js + TailwindCSS  
 - **Backend:** Laravel 10  
@@ -32,7 +32,7 @@ A scalable multi-vendor SaaS e-commerce platform with vendor management, secure 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/saas-multivendor
